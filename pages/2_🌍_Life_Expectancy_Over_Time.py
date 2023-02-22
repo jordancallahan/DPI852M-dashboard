@@ -1,10 +1,6 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-import streamlit as st
 import plotly.express as px
-import plotly.graph_objects as go
+
 
 st.set_page_config(page_title="Life Expectancy Over Time", page_icon="🌍", layout="wide")
 
